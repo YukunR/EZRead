@@ -9,3 +9,13 @@ jsonlite
 
 # if deploying shiny based applications:
 shiny
+shinyjs
+diann
+iq
+dplyr
+openxlsx2
+data.table
+hash
+stringr
+tibble
+tidyr
